@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1 align="center">Olá, Dev! Eu sou o João Vitor Santos 👋</h1>
+  <h1 align="center">
+    Olá, Dev!<br/>
+    Eu sou o João Vitor Santos 👋
+  </h1>
   <p align="center">
     Sou estudante do 3º período de Coding na Universidade Cruzeiro do Sul Virtual, apaixonado por transformar ideias em realidade através do código.
     Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas e inovar.
