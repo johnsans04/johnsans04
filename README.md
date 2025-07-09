@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">## Bem-vindo(a) ao meu universo! ✨ Eu sou o João Vitor</h1>
+<h1 align="center">Bem-vindo(a) ao meu universo! ✨ Eu sou o João Vitor</h1>
 
 🚀 
 📚 Cursando Coding em Cruzeiro do Sul Virtual
