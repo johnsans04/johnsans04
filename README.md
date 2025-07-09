@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://github.com/johnsans04" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/194866440?v=4" alt="Minha Foto de Perfil" width="150px" style="border-radius:50%">
-  </a>
   <h1 align="center">Olá, Dev! Eu sou o João Vitor Santos 👋</h1>
   <p align="center">
     Sou estudante do 3º período de Coding na Universidade Cruzeiro do Sul Virtual, apaixonado por transformar ideias em realidade através do código.
