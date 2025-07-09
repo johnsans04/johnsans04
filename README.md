@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/banner.gif" alt="Banner de Boas-Vindas" width="100%">
+</div>
+
 <h1 align="center">Bem-vindo(a) ao meu universo! ✨ Eu sou o João Vitor</h1>
 
 🚀 
