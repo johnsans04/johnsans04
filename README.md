@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **johnsans04/johnsans04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Bem-vindo(a) ao meu universo! ✨ Eu sou o João Vitor</h1>
+<h1 align="center">## Bem-vindo(a) ao meu universo! ✨ Eu sou o João Vitor</h1>
 
 🚀 
 📚 Cursando Coding em Cruzeiro do Sul Virtual
