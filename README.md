@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá, Dev! Eu sou o João Vitor Santos 👋
+**Olá, Dev! Eu sou o João Vitor Santos 👋**
 
 Um resumo sobre mim:
 
-- 🔄 Migrando de infra para dev<br/>
-- 🏫 Cursando Coding na Universidade Cruzeiro do Sul Virtual<br/>
-- 📚 Atualmente estou aprendendo HTML, CSS e JavaScript<br/>
-- 🚀 Meu objetivo é me tornar um desenvolvedor Full Stack
+🔄 Migrando de infra para dev<br/>
+🏫 Cursando Coding na Universidade Cruzeiro do Sul Virtual<br/>
+📚 Atualmente estou aprendendo HTML, CSS e JavaScript<br/>
+🚀 Meu objetivo é me tornar um desenvolvedor Full Stack
