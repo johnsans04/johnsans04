@@ -12,16 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <h1 align="center">
-    Olá, Dev!<br/>
-    Eu sou o João Vitor Santos 👋
-  </h1>
-  <p align="center">
-    Sou estudante do 3º período de Coding na Universidade Cruzeiro do Sul Virtual, apaixonado por transformar ideias em realidade através do código.
-    Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas e inovar.
-  </p>
-</div>
+Olá, Dev!<br/>
+Eu sou o João Vitor Santos 👋
 
-🚀 
-📚 Cursando Coding em Cruzeiro do Sul Virtual
+Um resumo sobre mim:
+
+🔄 Migrando de infra para dev
+🏫 Cursando Coding na Universidade Cruzeiro do Sul Virtual
+📚 Atualmente estou aprendendo HTML, CSS e JavaScript
+🚀 Meu objetivo é me tornar um desenvolvedor Full Stack
