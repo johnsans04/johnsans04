@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="color:#CCCCCC; font-size: 14px;">Olá, Dev! Eu sou o João Vitor Santos 👋</h1>
+## Olá, Dev! Eu sou o João Vitor Santos 👋
 
 Um resumo sobre mim:
 
