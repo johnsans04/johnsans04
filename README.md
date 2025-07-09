@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/banner.gif" alt="Banner de Boas-Vindas" width="100%">
-</div>
+<a href="https://github.com/johnsans04" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/johnsans04?v=4" alt="Sua Foto de Perfil" width="150px" style="border-radius:50%">
+</a>
 
 <h1 align="center">Bem-vindo(a) ao meu universo! ✨ Eu sou o João Vitor</h1>
 
